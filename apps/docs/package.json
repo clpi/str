@@ -15,9 +15,13 @@
     "test:unit": "vitest"
   },
   "dependencies": {
+    "@auth/sveltekit": "^0.10.0",
     "@repo/ui": "*",
+    "@xstate/svelte": "^3.0.2",
     "svelte-headlessui": "^0.0.33",
-    "svelte-transition": "^0.0.10"
+    "svelte-transition": "^0.0.10",
+    "sveltekit-superforms": "^1.13.4",
+    "xstate": "^5.6.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.40.1",

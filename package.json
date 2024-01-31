@@ -25,6 +25,8 @@
     "packages/*"
   ],
   "dependencies": {
+    "svelte-chartjs": "^3.1.4",
+    "svelte-feather-icons": "^4.1.0",
     "svelte-headlessui": "^0.0.33",
     "svelte-transition": "^0.0.10"
   }

@@ -15,8 +15,22 @@
     "test:unit": "vitest"
   },
   "dependencies": {
+    "@auth/sveltekit": "^0.10.0",
+    "@carbon/charts-svelte": "^1.13.25",
     "@repo/ui": "*",
+    "@xstate/tools-shared": "^4.1.0",
+    "@xyflow/svelte": "^0.0.35",
+    "alova": "^2.17.0",
+    "carbon-components-svelte": "^0.82.8",
+    "carbon-icons-svelte": "^12.4.2",
+    "carbon-preprocess-svelte": "^0.10.0",
+    "d3": "^7.8.5",
+    "d3-cloud": "^1.2.7",
+    "d3-sankey": "^0.12.3",
+    "svelte-chartjs": "^3.1.4",
+    "svelte-feather-icons": "^4.1.0",
     "svelte-headlessui": "^0.0.33",
+    "svelte-mq-store": "^2.2.5",
     "svelte-transition": "^0.0.10"
   },
   "devDependencies": {
@@ -28,6 +42,7 @@
     "@typescript-eslint/eslint-plugin": "^6.17.0",
     "@typescript-eslint/parser": "^6.17.0",
     "autoprefixer": "^10.4.17",
+    "carbon-pictograms-svelte": "^12.10.0",
     "eslint": "^8.56.0",
     "postcss": "^8.4.33",
     "prettier": "^3.1.1",
